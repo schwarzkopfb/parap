@@ -1,0 +1,2 @@
+# parap
+Simple currying module.
